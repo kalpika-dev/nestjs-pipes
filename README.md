@@ -1,16 +1,16 @@
 # Installation
 
 ```bash
-npm install --save @nodeteam/nestjs-pipes
+npm install --save @kalpika-dev/nestjs-pipes
 ```
 
 # Usage
 
 ```typescript
 // import pipes
-import { WherePipe, OrderByPipe } from '@nodeteam/nestjs-pipes';
+import { WherePipe, OrderByPipe } from '@kalpika-dev/nestjs-pipes';
 // import types
-import { Pipes } from '@nodeteam/nestjs-pipes/index';
+import { Pipes } from '@kalpika-dev/nestjs-pipes/index';
 ```
 
 # #OrderByPipe
